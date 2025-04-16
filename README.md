@@ -1,4 +1,7 @@
-# Currency Converter
+# **PPB G Tugas 6: Currency Converter Calculator App**
+| Nama         | NRP           |
+| :--------: | :------------: |
+| Genta Putra Prayoga |5025221040 |
 
 Aplikasi Currency Converter adalah aplikasi Android sederhana yang memungkinkan pengguna mengkonversi nilai mata uang antara Rupiah Indonesia (IDR), Dollar Amerika (USD), Euro (EUR), dan Yen Jepang (JPY) dengan antarmuka yang modern menggunakan Jetpack Compose.
 
